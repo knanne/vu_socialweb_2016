@@ -28,8 +28,7 @@
     var link = svg_network.selectAll(".link")
         .data(json.links)
       .enter().append("line")
-        .attr("class", "link")
-        .style("stroke", "#ccc");
+        .attr("class", "link");
 
     var color = d3.scale.category10();
 

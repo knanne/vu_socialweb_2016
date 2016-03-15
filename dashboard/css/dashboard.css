@@ -1,108 +1,83 @@
 /*CONtAINER*/
-
 .container{
   min-width: 1400px;
 }
 
-/*DESCRIPTION*/
-
-.description {
-  height: 500px
-}
-
 /*TABS*/
-
 #tabs {
   text-align: center;
 }
 
 /*LEGEND*/
-
 #legend {
   text-align: center;
 }
-
 #legend svg {
   background: #ECEFF1;
 }
-
 #legend text {
   font: 12px sans-serif;
 }
-
 #legend circle {
   opacity: .8;
 }
 
 /*FOOT*/
-
 #foot {
   text-align: center;
 }
 
 /*D3 NETWORK*/
-
-#vis .link {
+#network .link {
   stroke: #ECEFF1;
   stroke-width: 1px;
   stroke-opacity: 1;
 }
-
-#vis .node circle {
+#network .node circle {
   opacity: .8;
 }
-
-#vis .node text {
-  font: 8px sans-serif;
+#network .node text {
+  font-size: 8px;
+  font-family: sans-serif;
 }
 
 /*D3 MATRIX*/
-
-      rect.bordered {
-        stroke: #ccc;
-        stroke-width: 1px;
-      }
-
-      text.mono {
-        font-size: 7pt;
-        font-family: sans-serif;
-        opacity: .8;
-      }
-
-      text.active {
-        font-size: 12pt;
-        font-family: sans-serif;
-        opacity: 1;
-        fill: red;
-      }
-
-      rect.cell-hover {
-        stroke: red;
-        stroke-width: 3px;
-      }
-
-      text.text-hover {
-        font-size: 12pt;
-        fill: black;
-      }
+#matrix rect.bordered {
+  stroke: #ECEFF1;
+  stroke-width: 1px;
+}
+#matrix text.mono {
+  font-size: 7pt;
+  font-family: sans-serif;
+  opacity: .8;
+}
+#matrix text.active {
+  font-size: 12pt;
+  font-family: sans-serif;
+  opacity: 1;
+}
+#matrix rect.cell-hover {
+  stroke: red;
+  stroke-width: 2px;
+}
+#matrix text.text-hover {
+  font-size: 12pt;
+}
 
 /*TOOL TIP*/
-
 #tooltip {
   position: absolute;
   width: auto;
   height: auto;
   padding: 10px;
   background-color: white;
+  opacity: .9;
 }
-
-#tooltip.hidden {
-  display: none;
-}
-
 #tooltip p {
-  margin: 0;
   font-family: sans-serif;
   font-size: 12px;
   line-height: 20px;
+}
+#tooltip.hidden {
+  display: none;
 }
