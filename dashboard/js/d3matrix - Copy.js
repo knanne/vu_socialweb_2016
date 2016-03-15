@@ -1,64 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<html>
-  <head>
-    <style>
-      rect.bordered {
-        stroke: #E6E6E6;
-        stroke-width:2px;   
-      }
-
-      text.mono {
-        font-size: 9pt;
-        font-family: Consolas, courier;
-        fill: #aaa;
-      }
-
-      text.active {
-        fill: red;
-      }
-
-      rect.cell-hover {
-        stroke: red;   
-      }
-
-      text.text-hover {
-        fill: black;
-      }
-
-      #tooltip {
-        position: absolute;
-        width: auto;
-        height: auto;
-        padding: 10px;
-        background-color: white;
-      }
-
-      #tooltip.hidden {
-        display: none;
-      }
-
-      #tooltip p {
-        margin: 0;
-        font-family: sans-serif;
-        font-size: 12px;
-        line-height: 20px;
-      }
-
-    </style>
-
-    <div id="tooltip" class="hidden">
-        <p><span id="value"></p>
-    </div>
-    
-    <script src="http://d3js.org/d3.v3.js"></script>
-  </head>
-  <body>
-    
-    <div id="chart"></div>
-    
-    <script type="text/javascript">
-
       //READ CSV FILE
       function readTextFile(file) {
           var rawFile = new XMLHttpRequest();
@@ -75,7 +14,7 @@
           rawFile.send(null);
       }
 
-      readTextFile('d3matrix_datacols.txt');
+      readTextFile('dat/d3matrix_datacols.txt');
       console.log(links);
 
       var margin = {top: 120, right: 50, bottom: 50, left: 120},
@@ -85,13 +24,13 @@
           legendElementWidth = gridSize*4,
           colors = ['#FFFFFF', '#01579B','#FF6F00'];
 
-      var svg = d3.select("#chart").append("svg")
+      var svg_matrix = d3.select("#matrix").append("svg")
           .attr("width", width + margin.left + margin.right)
           .attr("height", height + margin.top + margin.bottom)
           .append("g")
           .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-      var rowLabels = svg.selectAll(".rowlabel")
+      var rowLabels = svg_matrix.selectAll(".rowlabel")
           .data(links)
           .enter().append("text")
             .text(function(d) { return d; })
@@ -103,7 +42,7 @@
             .on("mouseover", function(d) {d3.select(this).classed("text-hover",true);})
             .on("mouseout" , function(d) {d3.select(this).classed("text-hover",false);});
 
-      var colLabels = svg.selectAll(".collabel")
+      var colLabels = svg_matrix.selectAll(".collabel")
           .data(links)
           .enter().append("text")
             .text(function(d) { return d; })
@@ -115,7 +54,7 @@
             .on("mouseover", function(d) {d3.select(this).classed("text-hover",true);})
             .on("mouseout" , function(d) {d3.select(this).classed("text-hover",false);});
 
-      d3.tsv('d3matrix_data.tsv', function(d) {
+      d3.tsv('dat/d3matrix_data.tsv', function(d) {
           return {
             link1: +d.link1,
             link2: +d.link2,
@@ -128,7 +67,7 @@
               .domain([0, d3.max(data, function (d) { return d.value; }) /2 , d3.max(data, function (d) { return d.value; })])
               .range(colors);
 
-          var cards = svg.selectAll(".link2")
+          var cards = svg_matrix.selectAll(".link2")
               .data(data, function(d) {return d.link1+':'+d.link2;});
 
           cards.append("title");
@@ -166,7 +105,3 @@
               .style("fill", function(d) { return colorScale(d.value); });
 
         });
-      
-    </script>
-  </body>
-</html>

@@ -1,29 +1,57 @@
+/*LEGEND*/
+
+    #matrix_legend svg, #network_legend svg {
+      background: #ECEFF1;
+    }
+
+    #matrix_legend text, #network_legend text {
+      font: 12px sans-serif;
+    }
+
+
+/*D3 NETWORK*/
+
+    .link {
+      stroke: #ECEFF1; /*ccc*/
+      stroke-width: 1px;
+      stroke-opacity: 1;
+    }
+
+    .node text {
+      font: 10px sans-serif;
+    }    
+
 /*D3 MATRIX*/
 
       rect.bordered {
-        stroke: #000000;
-        stroke-width: .5px;   
+        stroke: #ccc;
+        stroke-width: 1px;
       }
 
       text.mono {
-        font-size: 9pt;
-        font-family: Consolas, courier;
-        fill: #aaa;
+        font-size: 7pt;
+        font-family: sans-serif;
+        opacity: .8;
       }
 
       text.active {
+        font-size: 12pt;
+        font-family: sans-serif;
+        opacity: 1;
         fill: red;
       }
 
       rect.cell-hover {
-        stroke: red;   
+        stroke: red;
+        stroke-width: 3px;
       }
 
       text.text-hover {
+        font-size: 12pt;
         fill: black;
       }
 
-/*  */
+/*TOOL TIP*/
 
 #tooltip {
   position: absolute;

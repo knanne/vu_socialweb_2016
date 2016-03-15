@@ -1,9 +1,109 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <style>
+      
+      rect.bordered {
+        stroke: #ccc;
+        stroke-width: 1px;
+      }
+
+      text.mono {
+        font-size: 7pt;
+        font-family: sans-serif;
+        opacity: .8;
+      }
+
+      text.active {
+        font-size: 12pt;
+        font-family: sans-serif;
+        opacity: 1;
+        fill: red;
+      }
+
+      rect.cell-hover {
+        stroke: red;
+        stroke-width: 3px;
+      }
+
+      text.text-hover {
+        font-size: 12pt;
+        fill: black;
+      }
+
+      #tooltip {
+        position: absolute;
+        width: auto;
+        height: auto;
+        padding: 10px;
+        background-color: white;
+      }
+
+      #tooltip.hidden {
+        display: none;
+      }
+
+      #tooltip p {
+        margin: 0;
+        font-family: sans-serif;
+        font-size: 12px;
+        line-height: 20px;
+      }
+
+      #legend svg {
+        background: #ECEFF1;
+      }
+
+      .legend text {
+        font: 14px sans-serif;
+      }
+
+    </style>
+
+    <div id="tooltip" class="hidden">
+        <p><span id="value"></p>
+    </div>
+    
+    <script src="http://d3js.org/d3.v3.js"></script>
+  </head>
+  <body>
+    
+    <div id="legend"></div>
+
+    <div id="chart"></div>
+    
+    <script type="text/javascript">
+
+      /*
+      
+      //READ CSV FILE
+      function readTextFile(file) {
+          var rawFile = new XMLHttpRequest();
+          rawFile.open("GET", file, false);
+          rawFile.onreadystatechange = function () {
+              if(rawFile.readyState === 4) {
+                  if(rawFile.status === 200 || rawFile.status == 0) {
+                      var allText = rawFile.responseText;
+
+                      docs = allText.split('\r\n');
+                  }
+              }
+          }
+          rawFile.send(null);
+      }
+
+      readTextFile('d3matrix_datacols.txt');
+      console.log(links);
+
+      */
+
       //LEGEND
       groups = ['CIW', 'CLTL', 'CS', 'CW', 'FSW', 'KIN', 'L&S'];
 
       var colorcat = d3.scale.category10();
 
-      var legend = d3.select("#matrix_legend").append("svg")
+      var legend = d3.select("#legend").append("svg")
         .attr("width", 50+groups.length*100)
         .attr("height", 40);
 
@@ -26,7 +126,7 @@
           .text(function(d,i) {return groups[i]; });
 
       //MATRIX
-      d3.tsv('dat/d3matrix_datacols.txt', function(d) {
+      d3.tsv('d3matrix_datacols.txt', function(d) {
         return {
           title: d.title,
           group: d.group
@@ -40,7 +140,7 @@
             gridSize = Math.floor(width / labels.length),
             legendElementWidth = gridSize*2;
 
-        var svg = d3.select("#matrix").append("svg")
+        var svg = d3.select("#chart").append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
@@ -77,7 +177,7 @@
         colLabels.transition().duration(1000)
           .style("fill", function(d) {return colorcat(d.group); });
 
-        d3.tsv('dat/d3matrix_data.tsv', function(d) {
+        d3.tsv('d3matrix_data.tsv', function(d) {
             return {
               link1: d.link1,
               link2: d.link2,
@@ -130,3 +230,7 @@
           });
       
       });
+
+    </script>
+  </body>
+</html>

@@ -1,6 +1,33 @@
-var width = 1000,
-    height = 900,
-    fill = d3.scale.category20();
+      //LEGEND
+      groups = ['CIW', 'CLTL', 'CS', 'CW', 'FSW', 'KIN', 'L&S']
+
+      var color = d3.scale.category10();
+
+      var legend = d3.select("#network_legend").append("svg")
+        .attr("width", 50+groups.length*100)
+        .attr("height", 40);
+
+      legend = legend.selectAll(".legend")
+        .data(d3.range(groups.length))
+        .enter()
+        .append("g")
+        .attr("class", "legend");
+
+      legend.append("circle")
+          .attr("r", 10)
+          .attr("cx", d3.scale.linear().domain([-.5,groups.length-.5]).range([0,groups.length*100]))
+          .attr("cy", 20)
+          .style("fill", function(d,i) { return color(groups[i]); })
+          .style("opacity", .8);
+
+      legend.append("text")
+          .attr("x", function(d,i) { return 60+(i*100); })
+          .attr("y", 25)
+          .text(function(d,i) {return groups[i]; });
+
+//NETWORK
+var width = 1200;
+var height = 900;
 
 var svg_network = d3.select("#network").append("svg")
     .attr("width", width)
@@ -33,13 +60,25 @@ d3.json("dat/d3network_data.json", function(json) {
       .call(force.drag);
 
   node.append("circle")
-      .attr("r", 8)
-      .style("fill", function(d) { return color(String(d.id).substring(0,1) == "@" ? 1 : 2); });
+      .attr("r", function(d) { if (d.type == "network") { return Math.sqrt(d.size); } else { return 2; } })
+      .style("fill", function(d) { if (d.type == "network") { return color(d.group); } else { return '#9E9E9E'; } })
+      .style("opacity", .8)
+      .on("mouseover", function(d){
+        d3.select("#tooltip")
+          .style("left", (d3.event.pageX+10) + "px")
+          .style("top", (d3.event.pageY-10) + "px")
+          .select("#value")
+          .html("account: <strong>@"+ d.id +"</strong>"+"<br>"+"following: "+d.size)
+          d3.select("#tooltip").classed("hidden", false);
+        })
+      .on("mouseout", function(){
+        d3.select("#tooltip").classed("hidden", true);
+      });
 
   node.append("text")
       .attr("dx", 12)
       .attr("dy", ".35em")
-      .text(function(d) { if (String(d.id).substring(0,1) == "@") {return d.id;} else {return '';}; });
+      .text(function(d) { if ( d.type == "network") {return d.id;} else {return '';}; });
 
   force.on("tick", function() {
     link.attr("x1", function(d) { return d.source.x; })

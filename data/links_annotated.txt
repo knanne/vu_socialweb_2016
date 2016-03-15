@@ -1,0 +1,198 @@
+group	title	link
+KIN	Marleen Huysman	http://www.kinresearch.nl/person/marleen-huysman/
+KIN	Bart van den Hooff	http://www.kinresearch.nl/person/bart-van-den-hooff/
+KIN	Han Gerrits	http://www.kinresearch.nl/person/han-gerrits/
+KIN	Raghu Garud	http://www.kinresearch.nl/person/raghu-garud/
+KIN	Samer Faraj	http://www.kinresearch.nl/samer-faraj/
+KIN	Mario van Vliet	http://www.kinresearch.nl/mario-van-vliet/
+KIN	Hans Berends	http://www.kinresearch.nl/hans-berends/
+KIN	Frans Feldberg	http://www.kinresearch.nl/frans-feldberg/
+KIN	Maura Soekijad	http://www.kinresearch.nl/maura-soekijad/
+KIN	Philipp Tuertscher	http://www.kinresearch.nl/philipp-tuertscher/
+KIN	Tibert Verhagen	http://www.kinresearch.nl/tibert-verhagen/
+KIN	Marlous Agterberg	http://www.kinresearch.nl/marlous-agterberg/
+KIN	Fleur Deken	http://www.kinresearch.nl/fleur-deken/
+KIN	Frank Derksen	http://www.kinresearch.nl/frank-derksen/
+KIN	Rosalinde Klein Woolthuis	http://www.kinresearch.nl/rosalinde-klein-woolthuis/
+KIN	Yixin Lu	http://www.kinresearch.nl/yixin-lu/
+KIN	Amanda Porter	http://www.kinresearch.nl/amanda-porter/
+KIN	Marijn Plomp	http://www.kinresearch.nl/marijn-plomp/
+KIN	Mohammad Rezazade Mehrizi	http://www.kinresearch.nl/mohammad-rezazade-mehrizi/
+KIN	Jan-Kees Schakel	http://www.kinresearch.nl/jan-kees-schakel/
+KIN	Gerlof Sijtsma	http://www.kinresearch.nl/gerlof-sijtsma/
+KIN	Inge van de Weerd	http://www.kinresearch.nl/inge-van-de-weerd/
+KIN	Martijn van Otterlo	http://www.kinresearch.nl/martijn-van-otterlo/
+KIN	Anastasia Sergeeva	http://www.kinresearch.nl/anastasia-segreeva/
+KIN	Wendy G\xfcnther	http://www.kinresearch.nl/wendy-gunther/
+KIN	Susan Hilbolling	http://www.kinresearch.nl/susan-hilbolling/
+KIN	Jochem Hummel	http://www.kinresearch.nl/jochem-hummel/
+KIN	Natalja Laurey	http://www.kinresearch.nl/natalja-laurey/
+KIN	Nick Oostervink	http://www.kinresearch.nl/nick-oostervink/
+KIN	Montserrat Prats Lopez	http://www.kinresearch.nl/montserrat-prats-lopez/
+KIN	Julia Schlegelmilch	http://www.kinresearch.nl/julia-schlegelmilch/
+KIN	Charlotte Vonkeman	http://www.kinresearch.nl/charlotte-vonkeman/
+KIN	Frithjof Wegener	http://www.kinresearch.nl/frithjof-wegener/
+KIN	Kaoutar Sakaqui	http://www.kinresearch.nl/kaoutar-sakaqui/
+KIN	Ellen van Ombergen	http://www.kinresearch.nl/ellen-van-ombergen/
+CLTL	Prof.Dr. Piek Th.J.M. Vossen	http://www.vossen.info/
+CLTL	Tommaso Caselli	http://vupr.academia.edu/TommasoCaselli
+CLTL	Marieke van Erp	http://mariekevanerp.com/
+CLTL	Antske Fokkens	http://wordpress.let.vupr.nl/antske/
+CLTL	Paul Huygen	http://clivu.vupr.nl/medewerkers/en/medew.php?Paul-Huygen
+CLTL	Filip Ilievski	https://filipilievski.wordpress.com/
+CLTL	Ruben Izquierdo Bevia	http://rubenizquierdobevia.com/
+CLTL	Minhs virtual lab	http://minhlab.wordpress.com/
+CLTL	Emiel van Miltenburg	http://emielvanmiltenburg.nl/
+CLTL	Roser Morante	http://kyoto.let.vu.nl/~morante/
+CLTL	Marten Postma	https://www.linkedin.com/in/marten-postma-89861a3a?
+CLTL	Chantal van Son	https://chantalvanson.wordpress.com/
+CLTL	Hennie van der Vliet	https://www.linkedin.com/in/hennie-van-der-vliet-512869
+L&S	Babs Boter	http://literatuurensamenleving.nl/faculty-members/babs-boter/?lang=en
+L&S	Anita Raghunath	http://literatuurensamenleving.nl/faculty-members/anita-raghunath/?lang=en
+L&S	Amrita Das	http://literatuurensamenleving.nl/medewerkers/amrita-das/
+L&S	Andrew Niemeyer	http://literatuurensamenleving.nl/medewerkers/andrew-niemeyer/
+L&S	Roel van den Oever	http://literatuurensamenleving.nl/faculty-members/roel-van-den-oever/?lang=en
+L&S	Diederik Oostdijk	http://literatuurensamenleving.nl/faculty-members/diederik-oostdijk/?lang=en
+L&S	Kristine Steenbergh	http://literatuurensamenleving.nl/faculty-members/kristine-steenbergh/?lang=en
+L&S	Ben Peperkamp	http://literatuurensamenleving.nl/medewerkers/prof-dr-ben-peperkamp/
+CIW	Eric Akkerman	http://www.vu-ciw.nl/over-ons/docenten/eric-akkerman/
+CIW	Petra Bos	http://www.vu-ciw.nl/over-ons/docenten/petra-bos/
+CIW	Maaike van den Haak	http://www.vu-ciw.nl/over-ons/docenten/maaike-van-den-haak/
+CIW	Nel de Jong	http://www.vu-ciw.nl/over-ons/docenten/nel-de-jong/
+CIW	Dr. F. van der Houwen	http://www.fleurvanderhouwen.nl/
+CIW	Anna Kaal	http://www.vu-ciw.nl/over-ons/docenten/anna-kaal
+CIW	Martijn Kleppe	http://www.martijnkleppe.nl/
+CIW	Tina Krennmayr	http://www.vu-ciw.nl/over-ons/docenten/tina-krennmayr/
+CIW	Luuk Lagerwerf	http://www.vu-ciw.nl/over-ons/docenten/luuk-lagerwerf/
+CIW	Monique Lamers	http://mlamers.nl/
+CIW		http://let.vu.nl/nl/organisatie-van-de-faculteit/wetenschappelijk-personeel/medewerkers-alfabetisch/medewerkers-l-s/drs-m-g-onrust/index.aspx
+CIW	Carmen Ripa de la Concepci\xf3n	http://www.vu-ciw.nl/over-ons/docenten/carmen-ripa-de-la-concepcion/
+CIW	Marca Schasfoort	http://www.vu-ciw.nl/over-ons/docenten/marca-schasfoort/
+CIW	Ben Stuyvenberg	http://www.vu-ciw.nl/over-ons/docenten/ben-stuyvenberg
+CIW	Maurice Vliegen	http://www.vu-ciw.nl/over-ons/docenten/maurice-vliegen/
+CIW	Lourens de Vries	http://www.vu-ciw.nl/over-ons/docenten/lourens-de-vries
+CW	Drs. J. Arendsen	http://www.fsw.vu.nl/en/departments/communication-science/staff/arendsen/index.aspx
+CW	Wouter van Atteveldt	http://vanatteveldt.com/
+CW	Drs. Mirjam Baars	http://www.fsw.vu.nl/en/departments/communication-science/staff/baars/index.aspx
+CW	Dr. Jos Bartels	http://www.fsw.vu.nl/en/departments/communication-science/staff/bartels/index.aspx
+CW	Dr. Camiel J. Beukeboom	http://www.fsw.vu.nl/en/departments/communication-science/staff/beukeboom/index.aspx
+CW	Chei J. Billedo, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/billedo/index.aspx
+CW	Nicoleta Balau, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/balau/index.aspx
+CW	Amber Boeynaems, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/boeynaems/index.aspx
+CW	B. Brugman, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/b-brugman/index.aspx
+CW	Dr. Christian Burgers	http://www.fsw.vu.nl/en/departments/communication-science/staff/burgers/index.aspx
+CW	Prof. Dr. Brad J. Bushman	http://www.fsw.vu.nl/en/departments/communication-science/staff/bushman/index.aspx
+CW	Dr. Allison L. Eden	http://www.fsw.vu.nl/en/departments/communication-science/staff/eden/index.aspx
+CW	Anouk den Hamer, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/Hamer/index.aspx
+CW	Dr. Tilo Hartmann	http://www.fsw.vu.nl/en/departments/communication-science/staff/hartmann/index.aspx
+CW	Britt Hoeksema, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/hoeksema/index.aspx
+CW	Dr. Anita M. J. van Hoof	http://www.fsw.vu.nl/en/departments/communication-science/staff/van-hoof/index.aspx
+CW	Dr. B.K. Johnson	http://www.fsw.vu.nl/en/departments/communication-science/staff/johnson/index.aspx
+CW	Prof. dr. Peter Kerkhof	http://www.fsw.vu.nl/en/departments/communication-science/staff/kerkhof/index.aspx
+CW	Prof. dr. Jan Kleinnijenhuis	http://www.fsw.vu.nl/en/departments/communication-science/staff/kleinnijenhuis/index.aspx
+CW	Celine Klemm, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/klemm/index.aspx
+CW	Prof.dr. Elly A. Konijn	http://www.fsw.vu.nl/en/departments/communication-science/staff/konijn/index.aspx
+CW	Dr. Guido M. van Koningsbruggen	http://www.fsw.vu.nl/en/departments/communication-science/staff/van-koningsbruggen/index.aspx
+CW	Dr. Andre P.M. Krouwel	http://www.fsw.vu.nl/en/departments/communication-science/staff/krouwel/index.aspx
+CW	Ir. Wang Long Li	http://www.fsw.vu.nl/en/departments/communication-science/staff/Li/index.aspx
+CW	E.J. Miedzobrodzka, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/e-k-miedzobrodzka/index.aspx
+CW	Dr. Dirk Oegema	http://www.fsw.vu.nl/en/departments/communication-science/staff/oegema/index.aspx
+CW	Dr. Jaap W. Ouwerkerk	http://www.fsw.vu.nl/en/departments/communication-science/staff/ouwerkerk/index.aspx
+CW	Ir. Robert A. Paauwe	http://www.fsw.vu.nl/en/departments/communication-science/staff/paauwe/index.aspx
+CW	Plaisier, X.S.	http://www.fsw.vu.nl/en/departments/communication-science/staff/plaisier/index.aspx
+CW	Drs. Fam te Poel	http://www.fsw.vu.nl/en/departments/communication-science/staff/te-poel/index.aspx
+CW	Dr. A.M. van Prooijen	http://www.fsw.vu.nl/en/departments/communication-science/staff/van-prooijen/index.aspx
+CW	Dr. Giulia Ranzini	http://www.fsw.vu.nl/en/departments/communication-science/staff/ranzini/index.aspx
+CW	Drs. D.J. Schutten	http://www.fsw.vu.nl/en/departments/communication-science/staff/schutten/index.aspx
+CW	Drs. Marloes L.C. Spekman	http://www.fsw.vu.nl/en/departments/communication-science/staff/spekman/index.aspx
+CW	H. Sungur, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/sungur/index.aspx
+CW	Dr. Martin Tanis	http://www.fsw.vu.nl/en/departments/communication-science/staff/tanis/index.aspx
+CW	Dr. Jolanda Veldhuis	http://www.fsw.vu.nl/en/departments/communication-science/staff/veldhuis/index.aspx
+CW	Dr. Ivar E. Vermeulen	http://www.fsw.vu.nl/en/departments/communication-science/staff/vermeulen/index.aspx
+CW	Kasper Welbers, MSc	http://www.fsw.vu.nl/en/departments/communication-science/staff/welbers/index.aspx
+CW	Dr. Coen Wirtz	http://www.fsw.vu.nl/en/departments/communication-science/staff/wirtz/index.aspx
+ETCBC	dr. J.W. Dyk	http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-a-f/dyk.aspx
+ETCBC	Dr O. Glanz	http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-g-l/o-glanz/index.aspx
+ETCBC	G.J. Kalkman MA	http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-g-l/g-j-kalkman/index.aspx
+ETCBC	dr. J.L.H. Krans	http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-g-l/krans.aspx
+ETCBC	Brenda Kronemeijer-Heyink	http://vu-nl.academia.edu/BrendaKronemeijerHeyink
+ETCBC	Weblog Reinoud Oosting	https://reinoudoosting.wordpress.com/
+ETCBC	prof. dr. W.T. Peursen	http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-m-s/w-t-van-peursen/index.aspx
+ETCBC	Ulrik Sandborg-Petersen	http://people.hum.aau.dk/~ulrikp/index.html
+ETCBC	em. prof. dr. E. Talstra	http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-t-z/talstra.aspx
+CS	Wouter Beek	http://www.wouterbeek.com/
+CS	Peter Boncz	http://homepages.cwi.nl/~boncz/
+CS	Veruska Carretta Zamborlini	http://www.few.vu.nl/~vci900/
+CS	Huiqin Gao	http://www.huiqingao.com/
+CS	Frank van Harmelen	http://www.cs.vu.nl/~frankh/
+CS	Rinke Hoekstra	http://www.few.vu.nl/~hoekstra/
+CS	Qing Hu	http://www.few.vu.nl/~qhu400/
+CS	Zhisheng Huang	http://wasp.cs.vu.nl/~huang/
+CS	Dr.-Ing. Ali Khalili	http://ali1k.com/
+CS	Antonis Loizou	http://www.few.vu.nl/~alu900/
+CS	Sara Magliacane	https://smaglia.wordpress.com/
+CS	Albert Merono Penuelo	https://www.albertmeronyo.org/
+CS	Laurens Rietveld	http://laurensrietveld.nl/
+CS	Stefan Schlobach	http://www.few.vu.nl/~schlobac/
+CS	Annette ten Teije	http://www.cs.vu.nl/~annette/
+CS	Jacopo Urbani	http://www.jacopourbani.it/
+CS	Guus Schreiber	http://www.cs.vu.nl/~guus/
+CS	serious.eliens.net	http://serious.eliens.net/
+CS	Prof. Dr. J.M. (Hans) Akkermans	http://akmcbv19.home.xs4all.nl/
+CS	Prof. dr. Jan L. Top 	http://www.cs.vu.nl/~jltop/
+CS	Lora Aroyo Homepage	https://loraaroyo.wordpress.com/
+CS	Jacco van Ossenbruggen	http://www.cwi.nl/people/758
+CS	victor de boer at the vu	http://www.victordeboer.com/
+CS	Tobias Kuhn	http://www.tkuhn.org/
+CS	Home in progress of Jan Wielemaker	http://www.cs.vu.nl/~janw/
+CS	Plus Ultra	http://sergeterbraake.blogspot.nl/
+CS	Antoine Isaac 	http://www.few.vu.nl/~aisaac/
+CS	Davide Ceolin	http://www.few.vu.nl/~dceolin/
+CS	Chris Welty	https://plus.google.com/+ChrisWelty/posts
+FSW	Frank de Bakker	http://home.fsw.vu.nl/fga.de.bakker/
+FSW	Bianca Beersma	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/beersma/index.aspx
+FSW	F.J.F.W. van Berkel MSc	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/f-j-f-w-van-berkel/index.aspx
+FSW	PETER VAN DEN BESSELAAR	http://www.vandenbesselaar.net/
+FSW	Website Kees Boersma	http://keesboersma.com/
+FSW	Dr. W.A.M Borst (Irma)	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/borst/index.aspx
+FSW	Francoise Companjen	http://home.kpn.nl/fj.companjen/index.html
+FSW	Greetje Corporaal	https://greetjecorporaal.com/
+FSW	Dr. C. van Dyck	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-dyck/index.aspx
+FSW	Dr. A.L. van den Ende	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ende/index.aspx
+FSW	Julie Ferguson	http://www.julieferguson.nl/p/research.html
+FSW	Dr.ir. M. van der Gaag	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-der-gaag/index.aspx
+FSW	L. Glimmerveen, MSc	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/glimmerveen/index.aspx
+FSW	Prof.dr. P. Groenewegen	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/groenewegen/index.aspx
+FSW	Dr. I.R. Hellsten	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/hellsten/index.aspx
+FSW	F. ten Holder (Floor) MSc	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ten-holder/index.aspx
+FSW	Dr. F. den Hond	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/den-hond/index.aspx
+FSW	Kalkman, Jori MSc	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/kalkman/index.aspx
+FSW	Dr. F.H. Kamsteeg	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/kamsteeg/index.aspx
+FSW	Prof.dr.ing. A.H. van Marrewijk	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-marrewijk/index.aspx
+FSW	Dr. S. Merkus	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/merkus/index.aspx
+FSW	Dr. C. Moser	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/moser/index.aspx
+FSW	Prof. dr. H.L.G.R. Nies (Henk)	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/prof-henk-nies/index.aspx
+FSW	Antonie van Nistelrooij	http://www.avannistelrooij.nl/home.html
+FSW	David Passenier	https://www.linkedin.com/in/david-passenier-62727711
+FSW	Dr. C.H. Roessingh	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/roessingh/index.aspx
+FSW	Dr. I.H.J. Sabelis	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/sabelis/index.aspx
+FSW	Prof.dr. P.C. van der Sijde	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/sijde/index.aspx
+FSW	Dr. M.J. Spierenburg	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/spierenburg/index.aspx
+FSW	Dr. Yvette Taminiau	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/Taminiau/index.aspx
+FSW	DelArte	http://delarte.nl/kyhra/page.jsv?or=17&pg=27&or=17
+FSW	P.S.C. van Teunenbroek MSc	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-teunenbroek/index.aspx
+FSW	Prof.dr. M. Veenswijk	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/veenswijk/index.aspx
+FSW	Dr. Michiel Verver	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/verver/index.aspx
+FSW	Dr. I. Wakkee	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/wakkee/index.aspx
+FSW	T.A.H. Willems (Thijs), MSc	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/willems/index.aspx
+FSW	Dr. J.J. Wolbers	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/wolbers/index.aspx
+FSW	Dr. S.B. Ybema (Sierk)	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ybema/index.aspx
+AXIOM		http://www.axiom.humanities.uva.nl/arianna/
+AXIOM	Department of Philosophy	http://www.fil.lu.se/en/department/staff/jeroensmid/
+AXIOM		http://www.axiom.humanities.uva.nl/Hein/
+AXIOM		http://www.axiom.humanities.uva.nl/Pauline
+LEIBNIZ	Joost Breuker	http://www.leibnizcenter.org/information/people/joost-breuker
+LEIBNIZ	Tom van Engers	http://www.leibnizcenter.org/information/people/tom-van-engers
+LEIBNIZ	Dr Radboud G.F. Winkels	http://www.leibnizcenter.org/~winkels/
+LEIBNIZ	dr. A.W.F. (Alexander) Boer	http://www.uva.nl/en/about-the-uva/organisation/staff-members/content/b/o/a.w.f.boer/a.w.f.boer.html
+LEIBNIZ	giovanni sileno	http://leibnizcenter.org/~sileno/

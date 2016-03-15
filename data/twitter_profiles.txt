@@ -1,196 +1,198 @@
-link	title	twitter_link	usernames
-http://www.kinresearch.nl/person/marleen-huysman/	Marleen Huysman | KIN Research	https://twitter.com/marleenhuysman	marleenhuysman
-http://www.kinresearch.nl/person/marleen-huysman/	Marleen Huysman | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/person/marleen-huysman/	Marleen Huysman | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/person/bart-van-den-hooff/	Bart van den Hooff | KIN Research	https://twitter.com/bartvandenhooff	bartvandenhooff
-http://www.kinresearch.nl/person/bart-van-den-hooff/	Bart van den Hooff | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/person/bart-van-den-hooff/	Bart van den Hooff | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/person/han-gerrits/	Han Gerrits | KIN Research	https://twitter.com/hangerrits	hangerrits
-http://www.kinresearch.nl/person/han-gerrits/	Han Gerrits | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/person/han-gerrits/	Han Gerrits | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/person/raghu-garud/	Raghu Garud | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/person/raghu-garud/	Raghu Garud | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/samer-faraj/	Samer Faraj | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/samer-faraj/	Samer Faraj | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/mario-van-vliet/	Mario van Vliet | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/mario-van-vliet/	Mario van Vliet | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/hans-berends/	Hans Berends | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/hans-berends/	Hans Berends | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/frans-feldberg/	Frans Feldberg | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/frans-feldberg/	Frans Feldberg | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/maura-soekijad/	Maura Soekijad | KIN Research	https://twitter.com/mauravu?lang=nl	mauravu
-http://www.kinresearch.nl/maura-soekijad/	Maura Soekijad | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/maura-soekijad/	Maura Soekijad | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/philipp-tuertscher/	Philipp Tuertscher | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/philipp-tuertscher/	Philipp Tuertscher | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/tibert-verhagen/	Tibert Verhagen | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/tibert-verhagen/	Tibert Verhagen | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/marlous-agterberg/	Marlous Agterberg | KIN Research	https://twitter.com/mrlsagterberg	mrlsagterberg
-http://www.kinresearch.nl/marlous-agterberg/	Marlous Agterberg | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/marlous-agterberg/	Marlous Agterberg | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/fleur-deken/	Fleur Deken | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/fleur-deken/	Fleur Deken | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/frank-derksen/	Frank Derksen | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/frank-derksen/	Frank Derksen | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/rosalinde-klein-woolthuis/	Rosalinde Klein Woolthuis | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/rosalinde-klein-woolthuis/	Rosalinde Klein Woolthuis | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/yixin-lu/	Yixin Lu | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/yixin-lu/	Yixin Lu | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/amanda-porter/	Amanda Porter | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/amanda-porter/	Amanda Porter | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/marijn-plomp/	Marijn Plomp | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/marijn-plomp/	Marijn Plomp | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/mohammad-rezazade-mehrizi/	Mohammad Rezazade Mehrizi | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/mohammad-rezazade-mehrizi/	Mohammad Rezazade Mehrizi | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/jan-kees-schakel/	Jan-Kees Schakel | KIN Research	https://twitter.com/sensingclues	sensingclues
-http://www.kinresearch.nl/jan-kees-schakel/	Jan-Kees Schakel | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/jan-kees-schakel/	Jan-Kees Schakel | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/gerlof-sijtsma/	Gerlof Sijtsma | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/gerlof-sijtsma/	Gerlof Sijtsma | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/inge-van-de-weerd/	Inge van de Weerd | KIN Research	https://twitter.com/ingevandeweerd	ingevandeweerd
-http://www.kinresearch.nl/inge-van-de-weerd/	Inge van de Weerd | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/inge-van-de-weerd/	Inge van de Weerd | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/martijn-van-otterlo/	Martijn van Otterlo | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/martijn-van-otterlo/	Martijn van Otterlo | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/anastasia-segreeva/	Anastasia Sergeeva | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/anastasia-segreeva/	Anastasia Sergeeva | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/wendy-gunther/	Wendy Günther | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/wendy-gunther/	Wendy Günther | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/susan-hilbolling/	Susan Hilbolling | KIN Research	https://twitter.com/susanhilbolling	susanhilbolling
-http://www.kinresearch.nl/susan-hilbolling/	Susan Hilbolling | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/susan-hilbolling/	Susan Hilbolling | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/jochem-hummel/	Jochem Hummel | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/jochem-hummel/	Jochem Hummel | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/natalja-laurey/	Natalja Laurey | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/natalja-laurey/	Natalja Laurey | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/nick-oostervink/	Nick Oostervink | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/nick-oostervink/	Nick Oostervink | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/montserrat-prats-lopez/	Montserrat Prats Lopez | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/montserrat-prats-lopez/	Montserrat Prats Lopez | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/julia-schlegelmilch/	Julia Schlegelmilch | KIN Research	https://twitter.com/schlegelmilch_j	schlegelmilch_j
-http://www.kinresearch.nl/julia-schlegelmilch/	Julia Schlegelmilch | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/julia-schlegelmilch/	Julia Schlegelmilch | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/charlotte-vonkeman/	Charlotte Vonkeman | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/charlotte-vonkeman/	Charlotte Vonkeman | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/frithjof-wegener/	Frithjof Wegener | KIN Research	https://twitter.com/frithjofthinks	frithjofthinks
-http://www.kinresearch.nl/frithjof-wegener/	Frithjof Wegener | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/frithjof-wegener/	Frithjof Wegener | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/kaoutar-sakaqui/	Kaoutar Sakaqui | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/kaoutar-sakaqui/	Kaoutar Sakaqui | KIN Research	https://twitter.com/KINresearch	KINresearch
-http://www.kinresearch.nl/ellen-van-ombergen/	Ellen van Ombergen | KIN Research	https://twitter.com/twitterdev	twitterdev
-http://www.kinresearch.nl/ellen-van-ombergen/	Ellen van Ombergen | KIN Research	https://twitter.com/KINresearch	KINresearch
-https://filipilievski.wordpress.com/	Filip Ilievski's Personal Space	https://twitter.com/earthling91	earthling91
-https://chantalvanson.wordpress.com/	Chantal van Son's homepage	https://twitter.com/ChantalvanSon/	
-http://literatuurensamenleving.nl/medewerkers/amrita-das/	VU Amsterdam Literature and Society Amrita Das NWO	https://twitter.com/bpeperkamp	bpeperkamp
-http://literatuurensamenleving.nl/medewerkers/andrew-niemeyer/	Andrew Niemeyer - VU Amsterdam - Literatuur en Samenleving: Nederlands of Engels aan de Vrije Universiteit.	https://twitter.com/bpeperkamp	bpeperkamp
-http://literatuurensamenleving.nl/medewerkers/prof-dr-ben-peperkamp/	VU Amsterdam Nederlands Ben Peperkamp	https://twitter.com/bpeperkamp	bpeperkamp
-http://literatuurensamenleving.nl/medewerkers/prof-dr-ben-peperkamp/	VU Amsterdam Nederlands Ben Peperkamp	https://twitter.com/bpeperkamp	bpeperkamp
-http://www.vu-ciw.nl/over-ons/docenten/eric-akkerman/	Eric Akkerman - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/petra-bos/	Petra Bos - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/maaike-van-den-haak/	Maaike van den Haak - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/nel-de-jong/	Nel de Jong - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/anna-kaal	Anna Kaal - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.martijnkleppe.nl/	Martijn Kleppe - Erasmus Universiteit Rotterdam :: Home	https://twitter.com/StuartAFranklin/status/468424809622536192	
-http://www.martijnkleppe.nl/	Martijn Kleppe - Erasmus Universiteit Rotterdam :: Home	https://twitter.com/search?q=%23DHBenelux&src=tweetcrete	
-http://www.vu-ciw.nl/over-ons/docenten/tina-krennmayr/	Tina Krennmayr - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/luuk-lagerwerf/	Luuk Lagerwerf - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/carmen-ripa-de-la-concepcion/	Carmen Ripa de la Concepción - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/marca-schasfoort/	Marca Schasfoort - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/maurice-vliegen/	Maurice Vliegen - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.vu-ciw.nl/over-ons/docenten/lourens-de-vries	Lourens de Vries - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
-http://www.fsw.vu.nl/en/departments/communication-science/staff/arendsen/index.aspx	Drs. J. Arendsen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/baars/index.aspx	Drs. A.M. Baars - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/bartels/index.aspx	Dr. J. Bartels - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/beukeboom/index.aspx	Dr. C.J. Beukeboom - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/camielbeukeboom	camielbeukeboom
-http://www.fsw.vu.nl/en/departments/communication-science/staff/beukeboom/index.aspx	Dr. C.J. Beukeboom - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/billedo/index.aspx	Billedo - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/balau/index.aspx	N. Balau, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/boeynaems/index.aspx	A. Boeynaems, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/b-brugman/index.aspx	B. Brugman, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/burgers/index.aspx	Dr. C.F. Burgers - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/bushman/index.aspx	Dr. B. Bushman - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/eden/index.aspx	Dr. A.L. Eden - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/allison_eden	allison_eden
-http://www.fsw.vu.nl/en/departments/communication-science/staff/eden/index.aspx	Dr. A.L. Eden - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/Hamer/index.aspx	A. den Hamer, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/hartmann/index.aspx	Dr. T. Hartmann - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/hoeksema/index.aspx	B. Hoeksema, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/van-hoof/index.aspx	Dr. A.M.J. van Hoof - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/johnson/index.aspx	Dr. B.K. Johnson - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/kerkhof/index.aspx	Dr. P. Kerkhof - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/kerkhof/index.aspx	Dr. P. Kerkhof - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/kleinnijenhuis/index.aspx	Prof.dr. J. Kleinnijenhuis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/klemm/index.aspx	C. Klemm, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/konijn/index.aspx	Dr. E.A. Konijn - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/van-koningsbruggen/index.aspx	Dr. G. van Koningsbruggen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/krouwel/index.aspx	Dr. A.P.M. Krouwel - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/andrekrouwel	andrekrouwel
-http://www.fsw.vu.nl/en/departments/communication-science/staff/krouwel/index.aspx	Dr. A.P.M. Krouwel - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/Li/index.aspx	Ir. W.L. Li - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/wanglongli	wanglongli
-http://www.fsw.vu.nl/en/departments/communication-science/staff/Li/index.aspx	Ir. W.L. Li - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/e-k-miedzobrodzka/index.aspx	E.J. Miedzobrodzka, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/oegema/index.aspx	Dr. D. Oegema - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/ouwerkerk/index.aspx	Dr. J.W. Ouwerkerk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/JaapOuwerkerk	JaapOuwerkerk
-http://www.fsw.vu.nl/en/departments/communication-science/staff/ouwerkerk/index.aspx	Dr. J.W. Ouwerkerk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/plaisier/index.aspx	Drs. X.S. Plaisier - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/te-poel/index.aspx	F. te Poel - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/van-prooijen/index.aspx	Dr. A.M. van Prooijen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/ranzini/index.aspx	Dr. G. Ranzini - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/giuliaranzini	giuliaranzini
-http://www.fsw.vu.nl/en/departments/communication-science/staff/ranzini/index.aspx	Dr. G. Ranzini - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/schutten/index.aspx	Drs. D.J. Schutten - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/spekman/index.aspx	Drs. M.L.C. Spekman - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/loez23	loez23
-http://www.fsw.vu.nl/en/departments/communication-science/staff/spekman/index.aspx	Drs. M.L.C. Spekman - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/sungur/index.aspx	Sungur - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/tanis/index.aspx	Dr. M. Tanis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/veldhuis/index.aspx	Drs. J. Veldhuis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/vermeulen/index.aspx	Dr. I.E. Vermeulen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/welbers/index.aspx	K Welbers - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/communication-science/staff/wirtz/index.aspx	Dr. C. Wirtz - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.few.vu.nl/~hoekstra/	Rinke Hoekstra	https://twitter.com/RinkeHoekstra	RinkeHoekstra
-http://ali1k.com/	Dr.-Ing. Ali Khalili -- home page	https://twitter.com/hyperir	hyperir
-http://ali1k.com/	Dr.-Ing. Ali Khalili -- home page	https://twitter.com/hyperir	hyperir
-https://www.albertmeronyo.org/	Albert Meroño Peñuela	https://twitter.com/albertmeronyo	albertmeronyo
-http://www.jacopourbani.it/	jrbn ~# Jacopo Urbani	https://twitter.com/jrbn	jrbn
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23patch2014&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/laroyo/statuses/438207995453771776	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23PATCH2014&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23IUI2014&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23musetech&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23europeana&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/johanoomen/statuses/437847630727872512	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23ISWC2014&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/iswc2014/statuses/435389074220650497	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23SocialMedia&src=hash	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/laroyo/statuses/431510772729249792	
-https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/laroyo/	
-http://www.tkuhn.org/	Tobias Kuhn	https://twitter.com/txkuhn	txkuhn
-http://www.few.vu.nl/~aisaac/	None	https://twitter.com/antoine_isaac	antoine_isaac
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/beersma/index.aspx	Prof.dr. B. Beersma - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/f-j-f-w-van-berkel/index.aspx	F.J.F.W. van Berkel MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/borst/index.aspx	W.A.M. Borst - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-dyck/index.aspx	Dr. C. van Dyck - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ende/index.aspx	Dr. A.L. van den Ende - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.julieferguson.nl/p/research.html	Julie Ferguson  VU University Amsterdam: About 	https://twitter.com/juulferg	juulferg
-http://www.julieferguson.nl/p/research.html	Julie Ferguson  VU University Amsterdam: About 	https://twitter.com/OrgVU	OrgVU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-der-gaag/index.aspx	Dr.ir. M.P.J. van der Gaag - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/glimmerveen/index.aspx	L. Glimmerveen, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/groenewegen/index.aspx	Prof.dr. P. Groenewegen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/hellsten/index.aspx	Dr. I. van Hellsten - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ten-holder/index.aspx	F. ten Holder, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/den-hond/index.aspx	Dr. F. den Hond - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/kalkman/index.aspx	J. Kalkman, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/kamsteeg/index.aspx	Dr. F.H. Kamsteeg - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-marrewijk/index.aspx	Prof.dr.ing. A.H. van Marrewijk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/merkus/index.aspx	Dr. S. Merkus - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/moser/index.aspx	Drs. C. Moser - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/prof-henk-nies/index.aspx	Prof. dr. H.L.G.R. Nies (Henk) - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/roessingh/index.aspx	Dr. C.H. Roessingh - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/sabelis/index.aspx	Dr. I. Sabelis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/sijde/index.aspx	Dr. P.C. van der Sijde - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/spierenburg/index.aspx	Dr. M. Spierenburg - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/Taminiau/index.aspx	Dr. Y. Taminiau - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-teunenbroek/index.aspx	Teunenbroek, P.S.C. van - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/veenswijk/index.aspx	Prof.dr. M. Veenswijk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/verver/index.aspx	Dr. M. Verver - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/wakkee/index.aspx	Dr. I. Wakkee - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/willems/index.aspx	T.A.H. Willems, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/wolbers/index.aspx	J.J. Wolbers, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
-http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ybema/index.aspx	Dr. S.B. Ybema - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+group	link	title	twitter_link	usernames
+KIN	http://www.kinresearch.nl/person/marleen-huysman/	Marleen Huysman | KIN Research	https://twitter.com/marleenhuysman	marleenhuysman
+KIN	http://www.kinresearch.nl/person/marleen-huysman/	Marleen Huysman | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/person/marleen-huysman/	Marleen Huysman | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/person/bart-van-den-hooff/	Bart van den Hooff | KIN Research	https://twitter.com/bartvandenhooff	bartvandenhooff
+KIN	http://www.kinresearch.nl/person/bart-van-den-hooff/	Bart van den Hooff | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/person/bart-van-den-hooff/	Bart van den Hooff | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/person/han-gerrits/	Han Gerrits | KIN Research	https://twitter.com/hangerrits	hangerrits
+KIN	http://www.kinresearch.nl/person/han-gerrits/	Han Gerrits | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/person/han-gerrits/	Han Gerrits | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/person/raghu-garud/	Raghu Garud | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/person/raghu-garud/	Raghu Garud | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/samer-faraj/	Samer Faraj | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/samer-faraj/	Samer Faraj | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/mario-van-vliet/	Mario van Vliet | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/mario-van-vliet/	Mario van Vliet | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/hans-berends/	Hans Berends | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/hans-berends/	Hans Berends | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/frans-feldberg/	Frans Feldberg | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/frans-feldberg/	Frans Feldberg | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/maura-soekijad/	Maura Soekijad | KIN Research	https://twitter.com/mauravu?lang=nl	mauravu
+KIN	http://www.kinresearch.nl/maura-soekijad/	Maura Soekijad | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/maura-soekijad/	Maura Soekijad | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/philipp-tuertscher/	Philipp Tuertscher | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/philipp-tuertscher/	Philipp Tuertscher | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/tibert-verhagen/	Tibert Verhagen | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/tibert-verhagen/	Tibert Verhagen | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/marlous-agterberg/	Marlous Agterberg | KIN Research	https://twitter.com/mrlsagterberg	mrlsagterberg
+KIN	http://www.kinresearch.nl/marlous-agterberg/	Marlous Agterberg | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/marlous-agterberg/	Marlous Agterberg | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/fleur-deken/	Fleur Deken | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/fleur-deken/	Fleur Deken | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/frank-derksen/	Frank Derksen | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/frank-derksen/	Frank Derksen | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/rosalinde-klein-woolthuis/	Rosalinde Klein Woolthuis | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/rosalinde-klein-woolthuis/	Rosalinde Klein Woolthuis | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/yixin-lu/	Yixin Lu | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/yixin-lu/	Yixin Lu | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/amanda-porter/	Amanda Porter | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/amanda-porter/	Amanda Porter | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/marijn-plomp/	Marijn Plomp | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/marijn-plomp/	Marijn Plomp | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/mohammad-rezazade-mehrizi/	Mohammad Rezazade Mehrizi | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/mohammad-rezazade-mehrizi/	Mohammad Rezazade Mehrizi | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/jan-kees-schakel/	Jan-Kees Schakel | KIN Research	https://twitter.com/sensingclues	sensingclues
+KIN	http://www.kinresearch.nl/jan-kees-schakel/	Jan-Kees Schakel | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/jan-kees-schakel/	Jan-Kees Schakel | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/gerlof-sijtsma/	Gerlof Sijtsma | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/gerlof-sijtsma/	Gerlof Sijtsma | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/inge-van-de-weerd/	Inge van de Weerd | KIN Research	https://twitter.com/ingevandeweerd	ingevandeweerd
+KIN	http://www.kinresearch.nl/inge-van-de-weerd/	Inge van de Weerd | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/inge-van-de-weerd/	Inge van de Weerd | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/martijn-van-otterlo/	Martijn van Otterlo | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/martijn-van-otterlo/	Martijn van Otterlo | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/anastasia-segreeva/	Anastasia Sergeeva | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/anastasia-segreeva/	Anastasia Sergeeva | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/wendy-gunther/	Wendy Günther | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/wendy-gunther/	Wendy Günther | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/susan-hilbolling/	Susan Hilbolling | KIN Research	https://twitter.com/susanhilbolling	susanhilbolling
+KIN	http://www.kinresearch.nl/susan-hilbolling/	Susan Hilbolling | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/susan-hilbolling/	Susan Hilbolling | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/jochem-hummel/	Jochem Hummel | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/jochem-hummel/	Jochem Hummel | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/natalja-laurey/	Natalja Laurey | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/natalja-laurey/	Natalja Laurey | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/nick-oostervink/	Nick Oostervink | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/nick-oostervink/	Nick Oostervink | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/montserrat-prats-lopez/	Montserrat Prats Lopez | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/montserrat-prats-lopez/	Montserrat Prats Lopez | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/julia-schlegelmilch/	Julia Schlegelmilch | KIN Research	https://twitter.com/schlegelmilch_j	schlegelmilch_j
+KIN	http://www.kinresearch.nl/julia-schlegelmilch/	Julia Schlegelmilch | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/julia-schlegelmilch/	Julia Schlegelmilch | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/charlotte-vonkeman/	Charlotte Vonkeman | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/charlotte-vonkeman/	Charlotte Vonkeman | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/frithjof-wegener/	Frithjof Wegener | KIN Research	https://twitter.com/frithjofthinks	frithjofthinks
+KIN	http://www.kinresearch.nl/frithjof-wegener/	Frithjof Wegener | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/frithjof-wegener/	Frithjof Wegener | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/kaoutar-sakaqui/	Kaoutar Sakaqui | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/kaoutar-sakaqui/	Kaoutar Sakaqui | KIN Research	https://twitter.com/KINresearch	KINresearch
+KIN	http://www.kinresearch.nl/ellen-van-ombergen/	Ellen van Ombergen | KIN Research	https://twitter.com/twitterdev	twitterdev
+KIN	http://www.kinresearch.nl/ellen-van-ombergen/	Ellen van Ombergen | KIN Research	https://twitter.com/KINresearch	KINresearch
+CLTL	https://filipilievski.wordpress.com/	Filip Ilievski's Personal Space	https://twitter.com/earthling91	earthling91
+CLTL	https://chantalvanson.wordpress.com/	Chantal van Son's homepage	https://twitter.com/ChantalvanSon/	
+L&S	http://literatuurensamenleving.nl/medewerkers/amrita-das/	VU Amsterdam Literature and Society Amrita Das NWO	https://twitter.com/bpeperkamp	bpeperkamp
+L&S	http://literatuurensamenleving.nl/medewerkers/andrew-niemeyer/	Andrew Niemeyer - VU Amsterdam - Literatuur en Samenleving: Nederlands of Engels aan de Vrije Universiteit.	https://twitter.com/bpeperkamp	bpeperkamp
+L&S	http://literatuurensamenleving.nl/medewerkers/prof-dr-ben-peperkamp/	VU Amsterdam Nederlands Ben Peperkamp	https://twitter.com/bpeperkamp	bpeperkamp
+L&S	http://literatuurensamenleving.nl/medewerkers/prof-dr-ben-peperkamp/	VU Amsterdam Nederlands Ben Peperkamp	https://twitter.com/bpeperkamp	bpeperkamp
+CIW	http://www.vu-ciw.nl/over-ons/docenten/eric-akkerman/	Eric Akkerman - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/petra-bos/	Petra Bos - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/maaike-van-den-haak/	Maaike van den Haak - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/nel-de-jong/	Nel de Jong - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/anna-kaal	Anna Kaal - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.martijnkleppe.nl/	Martijn Kleppe - Erasmus Universiteit Rotterdam :: Home	https://twitter.com/StuartAFranklin/status/468424809622536192	
+CIW	http://www.vu-ciw.nl/over-ons/docenten/tina-krennmayr/	Tina Krennmayr - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/luuk-lagerwerf/	Luuk Lagerwerf - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/carmen-ripa-de-la-concepcion/	Carmen Ripa de la Concepción - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/marca-schasfoort/	Marca Schasfoort - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/maurice-vliegen/	Maurice Vliegen - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CIW	http://www.vu-ciw.nl/over-ons/docenten/lourens-de-vries	Lourens de Vries - Communicatie- en Informatiewetenschappen	https://twitter.com/VU_CIW	VU_CIW
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/arendsen/index.aspx	Drs. J. Arendsen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/baars/index.aspx	Drs. A.M. Baars - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/bartels/index.aspx	Dr. J. Bartels - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/beukeboom/index.aspx	Dr. C.J. Beukeboom - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/camielbeukeboom	camielbeukeboom
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/beukeboom/index.aspx	Dr. C.J. Beukeboom - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/billedo/index.aspx	Billedo - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/balau/index.aspx	N. Balau, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/boeynaems/index.aspx	A. Boeynaems, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/b-brugman/index.aspx	B. Brugman, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/burgers/index.aspx	Dr. C.F. Burgers - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/bushman/index.aspx	Dr. B. Bushman - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/eden/index.aspx	Dr. A.L. Eden - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/allison_eden	allison_eden
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/eden/index.aspx	Dr. A.L. Eden - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/Hamer/index.aspx	A. den Hamer, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/hartmann/index.aspx	Dr. T. Hartmann - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/hoeksema/index.aspx	B. Hoeksema, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/van-hoof/index.aspx	Dr. A.M.J. van Hoof - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/johnson/index.aspx	Dr. B.K. Johnson - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/kerkhof/index.aspx	Dr. P. Kerkhof - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/kerkhof/index.aspx	Dr. P. Kerkhof - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/kleinnijenhuis/index.aspx	Prof.dr. J. Kleinnijenhuis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/klemm/index.aspx	C. Klemm, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/konijn/index.aspx	Dr. E.A. Konijn - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/van-koningsbruggen/index.aspx	Dr. G. van Koningsbruggen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/krouwel/index.aspx	Dr. A.P.M. Krouwel - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/andrekrouwel	andrekrouwel
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/krouwel/index.aspx	Dr. A.P.M. Krouwel - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/Li/index.aspx	Ir. W.L. Li - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/wanglongli	wanglongli
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/Li/index.aspx	Ir. W.L. Li - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/e-k-miedzobrodzka/index.aspx	E.J. Miedzobrodzka, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/oegema/index.aspx	Dr. D. Oegema - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/ouwerkerk/index.aspx	Dr. J.W. Ouwerkerk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/JaapOuwerkerk	JaapOuwerkerk
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/ouwerkerk/index.aspx	Dr. J.W. Ouwerkerk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/paauwe/index.aspx	R.A. Paauwe - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/plaisier/index.aspx	Drs. X.S. Plaisier - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/te-poel/index.aspx	F. te Poel - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/van-prooijen/index.aspx	Dr. A.M. van Prooijen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/ranzini/index.aspx	Dr. G. Ranzini - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/giuliaranzini	giuliaranzini
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/ranzini/index.aspx	Dr. G. Ranzini - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/schutten/index.aspx	Drs. D.J. Schutten - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/spekman/index.aspx	Drs. M.L.C. Spekman - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/loez23	loez23
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/spekman/index.aspx	Drs. M.L.C. Spekman - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/sungur/index.aspx	Sungur - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/tanis/index.aspx	Dr. M. Tanis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/veldhuis/index.aspx	Drs. J. Veldhuis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/vermeulen/index.aspx	Dr. I.E. Vermeulen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/welbers/index.aspx	K Welbers - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CW	http://www.fsw.vu.nl/en/departments/communication-science/staff/wirtz/index.aspx	Dr. C. Wirtz - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+CS	http://www.cs.vu.nl/~frankh/	Frank van Harmelen's Home Page	https://twitter.com/FrankVanHarmele	FrankVanHarmele
+CS	http://www.few.vu.nl/~hoekstra/	Rinke Hoekstra	https://twitter.com/RinkeHoekstra	RinkeHoekstra
+CS	http://ali1k.com/	Dr.-Ing. Ali Khalili -- home page	https://twitter.com/hyperir	hyperir
+CS	http://ali1k.com/	Dr.-Ing. Ali Khalili -- home page	https://twitter.com/hyperir	hyperir
+CS	https://smaglia.wordpress.com/	Probability, Logic, Causality, Provenance? – Chronicling attemps in connecting N different fields	https://twitter.com/Schuldensuehner/status/619452510156255232	
+CS	https://www.albertmeronyo.org/	Albert Meroño Peñuela	https://twitter.com/albertmeronyo	albertmeronyo
+CS	http://www.jacopourbani.it/	jrbn ~# Jacopo Urbani	https://twitter.com/jrbn	jrbn
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23patch2014&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/laroyo/statuses/438207995453771776	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23PATCH2014&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23IUI2014&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23musetech&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23europeana&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/johanoomen/statuses/437847630727872512	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23ISWC2014&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/iswc2014/statuses/435389074220650497	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/search?q=%23SocialMedia&src=hash	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/laroyo/statuses/431510772729249792	
+CS	https://loraaroyo.wordpress.com/	Lora Aroyo Homepage | Computer Science Department, VU University Amsterdam	https://twitter.com/laroyo/	laroyo
+CS	http://www.tkuhn.org/	Tobias Kuhn	https://twitter.com/txkuhn	txkuhn
+CS	http://www.few.vu.nl/~aisaac/		https://twitter.com/antoine_isaac	antoine_isaac
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/beersma/index.aspx	Prof.dr. B. Beersma - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/f-j-f-w-van-berkel/index.aspx	F.J.F.W. van Berkel MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/borst/index.aspx	W.A.M. Borst - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-dyck/index.aspx	Dr. C. van Dyck - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ende/index.aspx	Dr. A.L. van den Ende - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.julieferguson.nl/p/research.html	Julie Ferguson  VU University Amsterdam: About 	https://twitter.com/juulferg	juulferg
+FSW	http://www.julieferguson.nl/p/research.html	Julie Ferguson  VU University Amsterdam: About 	https://twitter.com/OrgVU	OrgVU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-der-gaag/index.aspx	Dr.ir. M.P.J. van der Gaag - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/glimmerveen/index.aspx	L. Glimmerveen, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/groenewegen/index.aspx	Prof.dr. P. Groenewegen - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/hellsten/index.aspx	Dr. I. van Hellsten - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ten-holder/index.aspx	F. ten Holder, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/den-hond/index.aspx	Dr. F. den Hond - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/kalkman/index.aspx	J. Kalkman, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/kamsteeg/index.aspx	Dr. F.H. Kamsteeg - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-marrewijk/index.aspx	Prof.dr.ing. A.H. van Marrewijk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/merkus/index.aspx	Dr. S. Merkus - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/moser/index.aspx	Drs. C. Moser - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/prof-henk-nies/index.aspx	Prof. dr. H.L.G.R. Nies (Henk) - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/roessingh/index.aspx	Dr. C.H. Roessingh - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/sabelis/index.aspx	Dr. I. Sabelis - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/sijde/index.aspx	Dr. P.C. van der Sijde - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/spierenburg/index.aspx	Dr. M. Spierenburg - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/Taminiau/index.aspx	Dr. Y. Taminiau - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/van-teunenbroek/index.aspx	Teunenbroek, P.S.C. van - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/veenswijk/index.aspx	Prof.dr. M. Veenswijk - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/verver/index.aspx	Dr. M. Verver - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/wakkee/index.aspx	Dr. I. Wakkee - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/willems/index.aspx	T.A.H. Willems, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/wolbers/index.aspx	J.J. Wolbers, MSc - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
+FSW	http://www.fsw.vu.nl/en/departments/organization-sciences/staff/ybema/index.aspx	Dr. S.B. Ybema - Staff - Faculty of Social Sciences, VU University Amsterdam	https://twitter.com/FSW_VU	FSW_VU
