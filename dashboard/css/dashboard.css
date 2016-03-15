@@ -1,25 +1,60 @@
+/*CONtAINER*/
+
+.container{
+  min-width: 1400px;
+}
+
+/*DESCRIPTION*/
+
+.description {
+  height: 500px
+}
+
+/*TABS*/
+
+#tabs {
+  text-align: center;
+}
+
 /*LEGEND*/
 
-    #matrix_legend svg, #network_legend svg {
-      background: #ECEFF1;
-    }
+#legend {
+  text-align: center;
+}
 
-    #matrix_legend text, #network_legend text {
-      font: 12px sans-serif;
-    }
+#legend svg {
+  background: #ECEFF1;
+}
 
+#legend text {
+  font: 12px sans-serif;
+}
+
+#legend circle {
+  opacity: .8;
+}
+
+/*FOOT*/
+
+#foot {
+  text-align: center;
+}
 
 /*D3 NETWORK*/
 
-    .link {
-      stroke: #ECEFF1; /*ccc*/
-      stroke-width: 1px;
-      stroke-opacity: 1;
-    }
+#vis .link {
+  stroke: #ECEFF1;
+  stroke-width: 1px;
+  stroke-opacity: 1;
+}
 
-    .node text {
-      font: 10px sans-serif;
-    }    
+#vis .node circle {
+  opacity: .8;
+}
+
+#vis .node text {
+  font: 8px sans-serif;
+}
 
 /*D3 MATRIX*/
 

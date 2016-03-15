@@ -1,46 +1,25 @@
-      //LEGEND
-      groups = ['CIW', 'CLTL', 'CS', 'CW', 'FSW', 'KIN', 'L&S'];
+!(function (d3) {
 
-      var colorcat = d3.scale.category10();
+  $("d3matrix").empty();
 
-      var legend = d3.select("#matrix_legend").append("svg")
-        .attr("width", 50+groups.length*100)
-        .attr("height", 40);
+  var colorcat = d3.scale.category10();
 
-      legend = legend.selectAll(".legend")
-        .data(d3.range(groups.length))
-        .enter()
-        .append("g")
-        .attr("class", "legend");
-
-      legend.append("circle")
-          .attr("r", 10)
-          .attr("cx", d3.scale.linear().domain([-.5,groups.length-.5]).range([0,groups.length*100]))
-          .attr("cy", 20)
-          .style("fill", function(d,i) { return colorcat(groups[i]); })
-          .style("opacity", .8);
-
-      legend.append("text")
-          .attr("x", function(d,i) { return 60+(i*100); })
-          .attr("y", 25)
-          .text(function(d,i) {return groups[i]; });
-
-      //MATRIX
-      d3.tsv('dat/d3matrix_datacols.txt', function(d) {
-        return {
-          title: d.title,
-          group: d.group
-        };
-      },
+  //MATRIX
+  d3.tsv('dat/d3matrix_datacols.txt', function(d) {
+    return {
+      title: d.title,
+      group: d.group
+    };
+  },
       function(error, labels) {
 
         var margin = {top: 150, right: 50, bottom: 50, left: 150},
-            width = 1800 - margin.left - margin.right,
-            height = 1800 - margin.top - margin.bottom,
+            width = 1400 - margin.left - margin.right,
+            height = 1400 - margin.top - margin.bottom,
             gridSize = Math.floor(width / labels.length),
             legendElementWidth = gridSize*2;
 
-        var svg = d3.select("#matrix").append("svg")
+        var svg = d3.select("d3matrix").append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
@@ -130,3 +109,5 @@
           });
       
       });
+
+})(d3);

@@ -7,13 +7,13 @@
     <!--Import Style Sheet-->
     <link rel='stylesheet' href='css/dashboard.css' type='text/css'></style> 
 
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--Bootstrap-->
+    <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
 
     <!--Import D3-->
-    <script src="http://d3js.org/d3.v3.js"></script>
+    <script src="https://d3js.org/d3.v3.js"></script>
 
-    <!-- D3 Tooltip-->
+    <!--D3 Tooltip-->
     <div id="tooltip" class="hidden">
         <p><span id="value"></p>
     </div>
@@ -21,28 +21,100 @@
   </head>
   <body>
     
-    <!-- Fron Page -->
-    <h1>Analyzing The Network Institute</h1>
-    <p>problem statement</p>
+    <div id="container" class="container">
     
-    <h1>Analyzing Participant's Web Pages</h1>
-    <p></p>
-    <h4>Departments<h4>
-    <div id="matrix_legend"></div>
-    <h2>Matrix of Website Similarity</h2>
-    <div id="matrix"></div>
+        <header>
+            <h1>The Social Web: Course Project</h1>
+        </header>
+            
+            <div id="tabs" class="tabbable">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a class="description_tab" href="#description" data-toggle="tab">Description</a></li>
+                    <li><a class="network_tab" href="#network" data-toggle="tab">Network</a></li>
+                    <li><a class="matrix_tab" href="#matrix" data-toggle="tab">Matrix</a></li>
+                </ul>
+            </div>
 
-    
-    <h1>Analyzing Twitter Network</h1>
-    <p></p>
-    <h4>Departments<h4>
-    <div id="network_legend"></div>
-    <h2>Graph of Mutual Twitter Following</h2>
-    <div id="network"></div>
+            <div id="legend">
+                <p>Departments</p>
+                <d3legend></d3legend>
+            </div>
 
-    <!--Import Scripts-->
-    <script type="text/javascript" src="js/d3matrix.js"></script>
-    <script type="text/javascript" src="js/d3network.js"></script>
+            <div class="tab-content"> 
+                <div id="description" class="tab-pane active">
+                    <h3>Analyzing The Network Institute</h3>
+                    <p>
+                        <a href="http://www.networkinstitute.org/">The Network Institute</a> is a center of multidisciplinary research with a diverse range of members and projects. These members often have independent websites documenting their own interests and work. Being able to make research connections is therefore difficult.
+                        <br><br>
+                        We explore the complex connections between researchers of The Network Institute, and create a tool for starting future collaborations. The data used in our visualizations has been obtained through the public Twitter API and through scraping individual web pages.
+                    </p>
+                </div>
+                <div id="network" class="tab-pane">
+                    <h3>Analyzing Twitter Network</h3>
+                    <h4>Graph of Mutual Twitter Following</h4>
+                    <p>
+                        This network graph shows shows mutual friendships between Twitter accounts affiliated with the network institute. In order to include relevant connections, only the friends that follow at least two Network Institute accounts are included. The accounts shown were scraped from the individual network insitute websites. Each account is colored by its Network Institude group affiliation.
+                    </p>
+                    <d3network></d3network>
+                </div>
+                <div id="matrix" class="tab-pane">
+                    <h3>Analyzing Member Pages</h3>
+                    <h4>Matrix of Website Similarity</h4>
+                    <p>
+                        This matrix shows the similarity between the individual pages of Network Institute members. To reduce the size of the matrix, only those pages with more than 4000 chracters of text were included. Each page is labeled by the owning member, and is colored by its Network Institude group affiliation. The specific calculation used in a cosine similirity computed on tf-idf vectors for each website's body text.
+                    </p>
+                    <d3matrix></d3matrix>
+                </div>
+            </div>
+
+        <footer>
+            <div id="foot">
+                <p><i>the data in this report may not be entirely accurate, and should only be used as a demonstration</i></p>
+                <p> </p>
+                <p><b>Authors</b></p>
+                <p>Kain Nanne | Douwe Knoook | Eva Laura Mul | Vaishno Rayanpati</p>
+                <p><a href="https://github.com/knanne/vu_socialweb_2016">Code</a></p>
+            </div>
+        </footer>
+
+    </div>
+
+    <!--Import jQuery-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
+
+    <!--Import Bootstrap Javascript-->
+    <script src="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
+
+    <!--Import Legend-->
+    <script type="text/javascript" src="js/legend.js"></script>
+
+    <!--Activate Scripts on Tab Click-->
+    <script>
+        $.ajaxSetup ({
+            // Disable caching of AJAX responses
+            // Used when debugging
+            cache: false
+        });
+
+        $("#legend").hide();
+
+        $(".description_tab").click(function() {
+            $("#legend").hide();
+        })
+
+        $(".network_tab").click(function() {
+            $("#legend").show();
+            $.getScript("js/d3network.js");
+        })
+    </script>
+    <script>
+        $(".matrix_tab").click(function() {
+            $("#legend").show();
+            $.getScript("js/d3matrix.js");
+        })
+    </script>
+
+  </script>
     
   </body>
 
