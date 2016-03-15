@@ -18,9 +18,6 @@
 #legend text {
   font: 12px sans-serif;
 }
-#legend circle {
-  opacity: .8;
-}
 
 /*FOOT*/
 #foot {
@@ -47,14 +44,13 @@
   stroke-width: 1px;
 }
 #matrix text.mono {
-  font-size: 7pt;
+  font-size: 8pt;
   font-family: sans-serif;
-  opacity: .8;
 }
 #matrix text.active {
   font-size: 12pt;
   font-family: sans-serif;
-  opacity: 1;
+  background-color: white; 
 }
 #matrix rect.cell-hover {
   stroke: red;
@@ -63,7 +59,7 @@
 #matrix text.text-hover {
   font-size: 12pt;
   font-family: sans-serif;
-  opacity: 1;
+  background-color: white;
 }
 
 /*TOOL TIP*/

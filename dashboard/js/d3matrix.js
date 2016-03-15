@@ -12,7 +12,8 @@
   d3.tsv('dat/d3matrix_datacols.txt', function(d) {
     return {
       title: d.title,
-      group: d.group
+      group: d.group,
+      link: d.link
     };
   },
   function(error, labels) {
@@ -95,7 +96,10 @@
               .style("left", (d3.event.pageX+10) + "px")
               .style("top", (d3.event.pageY-10) + "px")
               .select("#value")
-              .html("<strong>"+labels[d.link1-1].title+"</strong>"+" : "+"<strong>"+labels[d.link2-1].title+"</strong>"+"<br>"+"similarity: "+d.value);  
+              .html("<strong>"+labels[d.link1-1].title+"</strong>"+" : "+"<strong>"+labels[d.link2-1].title+"</strong>"+"<br>"
+                +"similarity: "+"<strong>"+d.value+"</strong>"+"<br>"
+                +"link1: "+"<a href=''>"+labels[d.link1-1].link+"</a>"+"<br>"
+                +"link2: "+"<a href=''>"+labels[d.link2-1].link+"</a>"+"<br>");  
               d3.select("#tooltip").classed("hidden", false);
             })
           .on("mouseout", function(){
