@@ -1,7 +1,7 @@
 # vu_socialweb_2016
 Project for The Social Web Course, at Vrije University Amsterdam
 
-[view the dashboard](https://cdn.rawgit.com/knanne/vu_socialweb_2016/master/dashboard/index.html) using [rawgit](http://rawgit.com/)
+[view the dashboard](https://rawgit.com/knanne/vu_socialweb_2016/master/dashboard/index.html) using [rawgit](http://rawgit.com/)
 
 ##Description
 [The Network Institute](http://www.networkinstitute.org/) is a center of multidisciplinary research with a diverse range of members and projects. These members often have independent websites documenting their own interests and work. Being able to make research connections is therefore difficult.

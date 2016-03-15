@@ -2,7 +2,11 @@
 
   $("d3network").empty();
 
-  var color = d3.scale.category10();
+  var groups = ['KIN', 'CLTL', 'CIW', 'L&S', 'CW', 'CS', 'FSW'];
+
+  var colorgroup = d3.scale.category10()
+    .domain(groups)
+    .range(["#66c2a5", "#fc8d62", "#8da0cb", "#e78ac3", "#a6d854", "#ffd92f", "#e5c494"]);
 
   //NETWORK
   var margin = {top: 50, right: 50, bottom: 50, left: 50},
@@ -30,8 +34,6 @@
       .enter().append("line")
         .attr("class", "link");
 
-    var color = d3.scale.category10();
-
     var node = svg_network.selectAll(".node")
         .data(json.nodes)
       .enter().append("g")
@@ -40,7 +42,7 @@
 
     node.append("circle")
         .attr("r", function(d) { if (d.type == "network") { return Math.sqrt(d.size); } else { return 2; } })
-        .style("fill", function(d) { if (d.type == "network") { return color(d.group); } else { return '#9E9E9E'; } })
+        .style("fill", function(d) { if (d.type == "network") { return colorgroup(d.group); } else { return '#9E9E9E'; } })
         .on("mouseover", function(d){
           d3.select("#tooltip")
             .style("left", (d3.event.pageX+10) + "px")

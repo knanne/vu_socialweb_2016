@@ -2,7 +2,11 @@
 
   $("d3matrix").empty();
 
-  var colorcat = d3.scale.category10();
+  var groups = ['KIN', 'CLTL', 'CIW', 'L&S', 'CW', 'CS', 'FSW'];
+
+  var colorgroup = d3.scale.category10()
+    .domain(groups)
+    .range(["#66c2a5", "#fc8d62", "#8da0cb", "#e78ac3", "#a6d854", "#ffd92f", "#e5c494"]);
 
   //MATRIX
   d3.tsv('dat/d3matrix_datacols.txt', function(d) {
@@ -38,7 +42,7 @@
         .on("mouseout" , function(d) {d3.select(this).classed("text-hover",false);});
 
     rowLabels.transition().duration(1000)
-      .style("fill", function(d) {return colorcat(d.group); });
+      .style("fill", function(d) {return colorgroup(d.group); });
 
 
     var colLabels = svg.selectAll(".collabel")
@@ -54,7 +58,7 @@
         .on("mouseout" , function(d) {d3.select(this).classed("text-hover",false);});
 
     colLabels.transition().duration(1000)
-      .style("fill", function(d) {return colorcat(d.group); });
+      .style("fill", function(d) {return colorgroup(d.group); });
 
     d3.tsv('dat/d3matrix_data.tsv', function(d) {
       return {
