@@ -1,22 +1,19 @@
 <!DOCTYPE html>
-<html>
-  <head>  
-    <meta charset="utf-8">
-    <title>The Social Web: Course Project</title>    
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Social Web: Course Project</title>    
 
     <!--Import Style Sheet-->
     <link rel='stylesheet' href='css/dashboard.css' type='text/css'></style> 
-
-    <!--Bootstrap-->
-    <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
-
+    <!--Bootstrap CSS-->
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <!--Import Colorbrewer-->
     <script src="js/colorbrewer.js"></script>
-
     <!--Import D3-->
     <script src="https://d3js.org/d3.v3.js"></script>
-
-    <!--D3 Tooltip-->
+    <!--CREATE D3 Tooltip-->
     <div id="tooltip" class="hidden">
         <p><span id="value"></span></p>
     </div>
@@ -71,11 +68,13 @@
             </div>
 
         <footer>
-            <div id="foot">
-                <p><i>due to the automation of web scraping, data in this report may not be entirely accurate<br>this tool should be seen as a demonstration of capabilities</i></p>
-                <p> </p>
-                <p><b>Authors</b></p>
-                <p>Kain Nanne | Douwe Knoook | Eva Laura Mul | Vaishno Rayanpati</p>
+            <div id="foot" class="containter">
+                <br>
+                <p class="text-muted">
+                    <i>due to the automation of web scraping, some member data may not be entirely representative of The Network Institue<br>this tool is a demonstration prototype</i>
+                </p>
+                <p>2016</p>
+                <p><b>Author</b><br>Kain Nanne</p>
                 <p><a href="https://github.com/knanne/vu_socialweb_2016">Code</a></p>
             </div>
         </footer>
@@ -84,10 +83,8 @@
 
     <!--Import jQuery-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
-
     <!--Import Bootstrap Javascript-->
-    <script src="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
-
+    <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">></script>
     <!--Import Legend-->
     <script type="text/javascript" src="js/legend.js"></script>
 
